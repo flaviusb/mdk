@@ -9,7 +9,7 @@ let g:colors_name="mdk"
 
 hi Normal          guifg=black guibg=white
 hi Comment         guifg=#808080
-hi Error           guifg=#F00000 guibg=#F0A0A0
+hi Error           guifg=#ffffff guibg=#FF0000
 hi Keyword         guifg=#008000 gui=bold
 hi Operator        guifg=#303030
 hi LiteralString   guibg=#fff0f0
