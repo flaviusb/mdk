@@ -15,3 +15,5 @@ hi Operator        guifg=#303030
 hi LiteralString   guibg=#fff0f0
 hi StringDelimeter guibg=#fff0f0 guifg=#D02000
 hi link String LiteralString
+hi Regex           guifg=black guibg=#fff0ff
+hi RegexDelimeter  guifg=#D0200f guibg=#fff0ff
