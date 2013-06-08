@@ -22,6 +22,7 @@ hi def StringSpliceRegion guifg=Black guibg=LightGreen
 hi def LiteralStringDoc guifg=#D04020
 hi def LiteralStringSymbol guifg=#A06000
 hi def LiteralStringOther guifg=#D02000 guibg=#fff0f0
+hi def FlagSelector guifg=#0020D0 guibg=#f0f0ff
 
 if &bg == "dark"
   hi def hlLevel0 ctermfg=red guifg=red1
