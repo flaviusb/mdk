@@ -12,6 +12,8 @@ hi Comment         guifg=#808080
 hi Error           guifg=#ffffff guibg=#FF0000
 hi Keyword         guifg=#008000 gui=bold
 hi Operator        guifg=#303030
+hi Statement       guifg=#0005f9 gui=bold term=bold
+hi Label           term=bold ctermfg=3 gui=bold guifg=Brown
 hi LiteralString   guibg=#fff0f0
 hi StringDelimeter guibg=#fff0f0 guifg=#D02000
 hi link String LiteralString
