@@ -20,6 +20,8 @@ hi link String LiteralString
 hi Regex           guifg=black guibg=#fff0ff
 hi RegexDelimeter  guifg=#D0200f guibg=#fff0ff
 hi RegexFlags      guifg=#D0200f
+hi def Quantifier      guifg=#0020D0 guibg=#fff0f0
+hi def QuantifierBlock guifg=#A06000 guibg=#fff0f0
 hi def StringSpliceRegion guifg=Black guibg=LightGreen
 hi def LiteralStringDoc guifg=#D04020
 hi def LiteralStringSymbol guifg=#A06000
